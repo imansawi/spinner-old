@@ -1,0 +1,2 @@
+# spinner
+Spin a character.
